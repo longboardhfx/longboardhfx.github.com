@@ -110,7 +110,7 @@ blockquote p	{ font-size: 1.3em; margin: 0 0 0 40px; font-weight: bold; }
 #wrapper,
 .mn-wrapper                 { margin: 0 auto; padding: 0; max-width: 1280px; min-width: 980px; text-align: center; width: expression(document.body.clientWidth > 1282 ? "1280px" : document.body.clientWidth < 982 ? "980px" : "100%"); font: normal 1em Arial, Helvetica, sans-serif; }
 
-.header                     { background: url(./images/header_bg.gif) repeat-x left top #0c4a7b; padding: 15px 15px; height: 72px;  }
+.header                     { background: url(http://www.longboardhfx.ca/images/header_bg.gif) repeat-x left top #0c4a7b; padding: 15px 15px; height: 72px;  }
 .header .ctn-boundary       { overflow: visible; }
 
 .header a,
@@ -120,7 +120,7 @@ blockquote p	{ font-size: 1.3em; margin: 0 0 0 40px; font-weight: bold; }
 .header .mainLogo h2			{ width: 206px; float: left; text-indent: -50000px; padding-right: 15px; border-right: 1px solid #396382;  }
 .header .mainLogo h2 a,
 .header .mainLogo h2 a:link,
-.header .mainLogo h2 a:visited	{ background: url(./images/header_logo.gif) no-repeat left top; width: 204px; height: 68px; display: block; }
+.header .mainLogo h2 a:visited	{ background: url(http://www.longboardhfx.ca/images/header_logo.gif) no-repeat left top; width: 204px; height: 68px; display: block; }
 .header .mainLogo h2 img		{ vertical-align: middle; }
 
 .header .mainTitle              { width: 240px; float: left; padding: 0px 0px 0px 15px; }
